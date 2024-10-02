@@ -32,7 +32,12 @@ div h2, div h3 {
     líneas
 */
 
-
+/*
 .color {
     color: #ff0000;
+}
+*/
+
+.color {
+    color: rgb(0, 255, 255);
 }
