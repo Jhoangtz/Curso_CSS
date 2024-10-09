@@ -60,3 +60,6 @@ div h2, div h3 {
     border-width: 2rem;
 }
 
+#fondo {
+    background-color: rgba(0, 0, 0, 0.3);
+}
