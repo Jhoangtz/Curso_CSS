@@ -41,28 +41,9 @@ div h2, div h3 {
 }
 */
 .color {
-    /* border: 5px red inset; */
-    /* 
-    dotted
-    dashed
-    solid
-    double
-    groove
-    ridge
-    inset
-    outset
-    none
-    hidden
-    */
     border-style: solid;
     border-color: blue;
     border-radius: 5px;
     border-width: 2rem;
 }
 
-#fondo {
-    background-color: rgba(255,0,0);
-    height: 200px;
-    background-image: url("estadio_por_dentro.png");
-    background-size: contain;
-}
