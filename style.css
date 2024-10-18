@@ -64,5 +64,6 @@ div h2, div h3 {
     background-color: rgba(255,0,0);
     height: 200px;
     background-image: url("estadio_por_dentro.png");
-    background-size: contain;
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
 }
