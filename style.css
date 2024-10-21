@@ -62,8 +62,7 @@ div h2, div h3 {
 
 #fondo {
     background-color: rgba(255,0,0);
+    /* opacity: 0.3; */
     height: 200px;
-    background-image: url("estadio_por_dentro.png");
-    background-size: 100px 100px;
-    background-repeat: repeat-x;
+    background: #f00 url(estadio_por_dentro.png) repeat-y center bottom / 100px 100px;
 }
