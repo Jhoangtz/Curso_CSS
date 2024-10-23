@@ -66,3 +66,13 @@ div h2, div h3 {
     height: 200px;
     background: #f00 url(estadio_por_dentro.png) repeat-y center bottom / 100px 100px;
 }
+
+.margen {
+    background-color: chocolate;
+    margin: 15px;
+    padding: 30px 15px 5px;
+    border: solid 1px black;
+    height: 100px;
+    width: 50px;
+    overflow: scroll;
+}
