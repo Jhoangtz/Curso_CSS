@@ -77,3 +77,9 @@ div h2, div h3 {
     overflow: scroll;
     outline: solid red;
 }
+
+.text {
+    text-align: justify;
+    text-decoration: overline;
+    text-shadow: 3px 5px 5px blue;
+}
