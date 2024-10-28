@@ -75,4 +75,5 @@ div h2, div h3 {
     height: 100px;
     width: 50px;
     overflow: scroll;
+    outline: solid red;
 }
