@@ -79,8 +79,8 @@ div h2, div h3 {
 }
 
 .text {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     text-align: justify;
     text-decoration: overline;
-    text-shadow: 3px 5px 5px blue;
+    text-shadow: 3px 5px 5px grey;
 }
