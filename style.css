@@ -20,7 +20,7 @@ div h2, div h3 {
 
 * {
     font-size: 24px;
-    color: black;
+/*    color: black; */
 }
 
 /* Esto es un comentario*/
@@ -79,8 +79,8 @@ div h2, div h3 {
 }
 
 .text {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: "Roboto", sans-serif;
     text-align: justify;
     text-decoration: overline;
-    text-shadow: 3px 5px 5px grey;
+    text-shadow: 3px 5px 5px blue;
 }
