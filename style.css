@@ -100,3 +100,9 @@ a:hover {
 a:active {
     color: red;
 }
+
+ul {
+    background-color: cyan;
+    list-style-type: none;
+    padding: 0%;
+}
