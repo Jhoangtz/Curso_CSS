@@ -107,3 +107,13 @@ ul {
     /*padding-left: 0%;*/
     /*list-style-position: inside;*/
 }
+
+table {
+    width: 100px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid 1px #eee;
+    padding: 5px;
+}
