@@ -134,11 +134,19 @@ tr:hover {
 }
 
 span {
-    /*display: block;*/
+    display: block;
     /*display: none;*/
-    visibility: hidden;
+    /*visibility: hidden;*/
+    max-width: 300px;
+    background-color: #f00;
 }
 
 .inline {
     display: inline;
+}
+
+#position {
+    position: sticky;
+    left: 20px;
+    top: 25px;
 }
