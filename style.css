@@ -150,3 +150,13 @@ span {
     left: 20px;
     top: 25px;
 }
+
+.left {
+    float: left;
+    width: 200px;
+    height: 200px;
+}
+
+.rigth {
+    float: right;
+}
