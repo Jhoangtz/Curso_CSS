@@ -160,3 +160,13 @@ span {
 .rigth {
     float: right;
 }
+
+.container {
+    height: 200px;
+}
+
+.colomn {
+    margin: 0 15px;
+    padding: 10px 0px;
+    width: 33.3%;
+}
